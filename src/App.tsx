@@ -11,7 +11,6 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>Lorem ipsum dolor</p>
-        <p>Test new branch syka</p>
         <a
           className="App-link"
           href="https://reactjs-2.org"
